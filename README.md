@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'll post more later, but as for now I'll just have this post (for now)<br>
+[My Linkedin](https://www.linkedin.com/in/paul-taylor-a434641b5/)
+
 [Code Sprint Competition](https://tt.loopnews.com/content/guardian-group-fosters-local-tech-talent-and-excellence)
 ![Guardian Group Code Sprint](https://github.com/uni-paul-taylor2/uni-paul-taylor2/assets/123190211/84798a5b-4b9e-4746-8043-0e9a13fffff4)
 
