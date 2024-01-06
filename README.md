@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'll post more later, but as for now I'll just have this post (for now)<br>
+[Code Sprint Competition](https://tt.loopnews.com/content/guardian-group-fosters-local-tech-talent-and-excellence)
+![Guardian Group Code Sprint](https://github.com/uni-paul-taylor2/uni-paul-taylor2/assets/123190211/84798a5b-4b9e-4746-8043-0e9a13fffff4)
+
 
 <!--
 **uni-paul-taylor2/uni-paul-taylor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
